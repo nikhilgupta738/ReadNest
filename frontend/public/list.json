@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "This is the First Book",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1730794561~exp=1730798161~hmac=de6f424431c767ae4a8c87d400324322c5e9b546732c183125e11ba3fc6ff183&w=826"
+    },
+    {
+        "id": 2,
+        "name": "Adventure Novel",
+        "title": "The Journey Begins",
+        "price": 15,
+        "category": "Fiction",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1730794561~exp=1730798161~hmac=de6f424431c767ae4a8c87d400324322c5e9b546732c183125e11ba3fc6ff183&w=826"
+    },
+    {
+        "id": 3,
+        "name": "Science Textbook",
+        "title": "Understanding Physics",
+        "price": 30,
+        "category": "Education",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1730794561~exp=1730798161~hmac=de6f424431c767ae4a8c87d400324322c5e9b546732c183125e11ba3fc6ff183&w=826"
+    },
+    {
+        "id": 4,
+        "name": "Cookbook",
+        "title": "Healthy Recipes for All",
+        "price": 10,
+        "category": "Cooking",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1730794561~exp=1730798161~hmac=de6f424431c767ae4a8c87d400324322c5e9b546732c183125e11ba3fc6ff183&w=826"
+    },
+    {
+        "id": 5,
+        "name": "History Book",
+        "title": "The Ancient Civilizations",
+        "price": 25,
+        "category": "History",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1730794561~exp=1730798161~hmac=de6f424431c767ae4a8c87d400324322c5e9b546732c183125e11ba3fc6ff183&w=826"
+    },
+    {
+        "id": 6,
+        "name": "Poetry Collection",
+        "title": "Emotions in Words",
+        "price": 8,
+        "category": "Poetry",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1730794561~exp=1730798161~hmac=de6f424431c767ae4a8c87d400324322c5e9b546732c183125e11ba3fc6ff183&w=826"
+    },
+    {
+        "id": 7,
+        "name": "Story Book",
+        "title": "This is the First Book",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1730794561~exp=1730798161~hmac=de6f424431c767ae4a8c87d400324322c5e9b546732c183125e11ba3fc6ff183&w=826"
+    },
+    {
+        "id": 8,
+        "name": "Beginner's Guide to Coding",
+        "title": "Learn to Code for Free",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1730794561~exp=1730798161~hmac=de6f424431c767ae4a8c87d400324322c5e9b546732c183125e11ba3fc6ff183&w=826"
+    },
+    {
+        "id": 9,
+        "name": "Travel Adventures",
+        "title": "Explore the World Through Stories",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1730794561~exp=1730798161~hmac=de6f424431c767ae4a8c87d400324322c5e9b546732c183125e11ba3fc6ff183&w=826"
+    },
+    {
+        "id": 10,
+        "name": "Science Simplified",
+        "title": "A Free Guide to Basic Science",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1730794561~exp=1730798161~hmac=de6f424431c767ae4a8c87d400324322c5e9b546732c183125e11ba3fc6ff183&w=826"
+    },
+    {
+        "id": 11,
+        "name": "Mindfulness & Meditation",
+        "title": "Find Calmness with Free Practices",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1730794561~exp=1730798161~hmac=de6f424431c767ae4a8c87d400324322c5e9b546732c183125e11ba3fc6ff183&w=826"
+    }
+]
